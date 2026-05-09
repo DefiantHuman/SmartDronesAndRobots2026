@@ -50,6 +50,3 @@ In testing, the **Open-Loop** system demonstrated significant velocity decay upo
 
 ## Technical Constraints
 Performance was verified via **High-Frequency Telemetry Logs**. This approach ensured the simulation maintained a **Real-Time Factor (RTF)** of >0.9 on the testing hardware, providing high-fidelity data for the control loop without the overhead of screen-recording software.
-
-## License
-MIT License
